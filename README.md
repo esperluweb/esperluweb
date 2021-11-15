@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1>Bonjour 👋</h1>
+
+<p>
+    <h2>Moi, c'est Grégoire.</h2>
+</p>
 
 <!--
 **BoisseauInformatique/BoisseauInformatique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
