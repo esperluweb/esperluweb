@@ -1,11 +1,10 @@
-<h1>Bonjour 👋</h1>
+<h1>Bonjour 👋 Moi c'est Grégoire ! 😁</h1>
 
-<h2>Moi c'est Grégoire ! 😁</h2> 
 <p>
     Je suis le gérant de Boisseau Informatique, et je propose la création de sites Internet 💻, de la formation 🎓 et bien d'autres choses !
 </p>
 
-<h3>Mes compétences 🛠️</h3>
+<h2>Mes compétences 🛠️</h2>
 <ul>
     <li>Wordpress</li>
     <li>Divi</li>
@@ -15,7 +14,7 @@
     <li>NodeJS / Express</li>
 </ul>
 
-<h3>Mes activités 🏃</h3>
+<h2>Mes activités 🏃</h2>
 <p>🖥️ Développeur web</p>
 <p>🧑‍🏫 Formateur indépendant</p>
 <p>🎓 Mentor OpenClassrooms</p>
