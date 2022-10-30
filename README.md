@@ -1,7 +1,7 @@
 <h1>Bonjour 👋</h1>
 
 <p>
-    <h2>Moi, c'est Grégoire.</h2>
+    <h2>Boisseau Informatique</h2> est une jeune entreprise créée en 2016, qui propose la création de sites Internet (Wordpress ou sur mesure) et de la formation.
 </p>
 
 <!--
