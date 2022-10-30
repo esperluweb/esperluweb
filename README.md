@@ -24,7 +24,8 @@
 
 <h2>📣 Vous voulez me contacter ?</h2>
 
-<a href=""><img width="64" height="64" src="https://static-00.iconduck.com/assets.00/facebook-icon-512x512-seb542ju.png"></a>
+<a href="https://www.facebook.com/boisseauinformatique/"><img width="64" height="64" src="https://static-00.iconduck.com/assets.00/facebook-icon-512x512-seb542ju.png"></a>
+<a href="https://www.instagram.com/boisseauinformatique/"><img width="64" height="64" src="https://static-00.iconduck.com/assets.00/instagram-icon-512x512-85ckvxzj.png"></a>
 
 <!--
 **BoisseauInformatique/BoisseauInformatique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
