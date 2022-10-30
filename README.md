@@ -1,8 +1,19 @@
 <h1>Bonjour 👋</h1>
 
+<h2>Moi c'est Grégoire ! 😁</h2> 
 <p>
-    <h2>Boisseau Informatique</h2> est une jeune entreprise créée en 2016, qui propose la création de sites Internet (Wordpress ou sur mesure) et de la formation.
+    Je suis le gérant de Boisseau Informatique, et je propose la création de sites Internet 💻 (Wordpress ou sur mesure) et de la formation 🎓.
 </p>
+
+<h3>Mes compétences 🛠️</h3>
+<ul>
+    <li>Wordpress</li>
+    <li>Divi</li>
+    <li>Javascript</li>
+    <li>React</li>
+    <li>PHP</li>
+    <li>NodeJS / Express</li>
+</ul>
 
 <!--
 **BoisseauInformatique/BoisseauInformatique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
