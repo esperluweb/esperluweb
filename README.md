@@ -19,7 +19,6 @@
 <p>🧑‍🏫 Formateur indépendant</p>
 <p>🎓 Mentor OpenClassrooms</p>
 <p>📻 Chroniqueur pour France Bleu Auxerre</p>
-<p>👮 Modérateur pour le serveur Discord Sans Prise de Tech</p>
 <p>📺 Streameur sur Twitch (bientôt)</p>
 
 <h2>📣 Vous voulez me contacter ?</h2>
