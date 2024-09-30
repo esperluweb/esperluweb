@@ -6,20 +6,20 @@
 
 <h2>🛠️ Mes compétences</h2>
 <ul>
+    <li>React</li>
+    <li>Javascript</li>
+    <li>Next</li>
+    <li>NodeJS / Express</li>
     <li>Wordpress</li>
     <li>Divi</li>
-    <li>Javascript</li>
-    <li>React</li>
     <li>PHP</li>
-    <li>NodeJS / Express</li>
 </ul>
 
 <h2>🏃 Mes activités</h2>
 <p>🖥️ Développeur web</p>
 <p>🧑‍🏫 Formateur indépendant</p>
-<p>🎓 Mentor OpenClassrooms</p>
 <p>📻 Chroniqueur pour France Bleu Auxerre</p>
-<p>📺 Streameur sur Twitch (bientôt)</p>
+<p>📺 Streameur sur Twitch (un jour peut-être)</p>
 
 <h2>📣 Vous voulez me contacter ?</h2>
 
